@@ -1,0 +1,32 @@
+body {
+    background-color:#ffe797;
+    background-image: url("https://www.holidify.com/images/cmsuploads/compressed/San_Diego_Zoo_entrance_-10July2007_20201015210910.jpg");
+   color:#ffc56d;
+}
+th {
+
+}
+header {
+    background-color: #ffe797;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+    nav {
+        background-color: #ffe797;
+        color: #fff;
+        text-align: center;
+        padding: 10px;
+    }
+    nav ul {
+        list-style-type: none;
+        padding: 0;
+    }
+    nav ul li {
+        display: inline;
+        margin-right: 20px;
+    }
+    img {
+        align-content: center;
+        padding-left: 150px;
+    }
